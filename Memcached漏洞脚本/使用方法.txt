@@ -1,0 +1,4 @@
+经常碰倒对外开了memcached端口也就是11211的机器.而通常这里面会有一些很有意思的信息. 
+所以这里随手写了个小脚本.发wooyun存个档。各位用之前请记得easy_install python-memcached或者pip install python-memcached一下。 
+
+pmc.py ip:11211
